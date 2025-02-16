@@ -16,7 +16,7 @@ This repository contains our solutions to the problems that were attempted and w
 
 ## Results
 
-Our team ranked 238/536 in beginner teams.
+Our team ranked 238/536 in beginner teams. <br />
 Our team ranked 74/176 in beginner high school teams.
 
 ## Links
